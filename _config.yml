@@ -1,15 +1,18 @@
 menu:
     Blog: /
     Archive: /archives/
+    About: /about
     GitHub: https://github.com/GraphiCon
+    知乎专栏: https://zhuanlan.zhihu.com/graphicon
     Rss: /atom.xml
+
 
 favicon: /favicon.png
 logo: /favicon.png
 
 # Comment
 # e.g disqus: seansun
-disqus: origamidance
+disqus: graphicon-io
 duoshuo:
 
 # Analytics
